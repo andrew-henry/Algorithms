@@ -9,3 +9,20 @@ Implementation of algorithms and data structures
 * Python
 * C++
 
+Data Structures
+--
+
+* Stacks
+* Queue
+* Deque
+* Singly Linkd List
+* Doubly Linked List
+
+Algorithms
+--
+* Bubble Sort
+* Quick Sort
+* Merge Sort
+* Selection Sort
+ Shell Sort
+ * Insertion Sort
