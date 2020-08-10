@@ -5,3 +5,4 @@ A collection of algorithms
  * Sorting
  * Pattern Searching
  * Greedy
+ * Divide & Conquer
