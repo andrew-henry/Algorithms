@@ -24,5 +24,5 @@ Sorting Algorithms
 * Quick Sort
 * Merge Sort
 * Selection Sort
- Shell Sort
- * Insertion Sort
+* Shell Sort
+* Insertion Sort
