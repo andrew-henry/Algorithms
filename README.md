@@ -30,3 +30,7 @@ Sorting Algorithms
 Graph Algorithms 
 --
 
+Pattern Searching
+--
+
+
