@@ -26,3 +26,7 @@ Sorting Algorithms
 * Selection Sort
 * Shell Sort
 * Insertion Sort
+
+Graph Algorithms 
+--
+
