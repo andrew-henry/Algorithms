@@ -18,7 +18,7 @@ Data Structures
 * Singly Linkd List
 * Doubly Linked List
 
-Algorithms
+Sorting Algorithms
 --
 * Bubble Sort
 * Quick Sort
