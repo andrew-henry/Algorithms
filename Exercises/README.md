@@ -2,4 +2,4 @@
 A collection of c++ programming exercises
 
 
-Exercises taken from udemy course 
+Exercises taken from udemy courses from instructors...
