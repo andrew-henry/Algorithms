@@ -35,4 +35,6 @@ Graph Algorithms
 Pattern Searching
 --
 
+Naive Pattern Searching
+
 
