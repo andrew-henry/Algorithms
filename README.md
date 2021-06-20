@@ -37,4 +37,6 @@ Pattern Searching
 
 * Naive Pattern Searching
 
+Mathematical Algorithms
+-- 
 
