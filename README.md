@@ -32,6 +32,10 @@ Sorting Algorithms
 Graph Algorithms 
 --
 
+Greedy Algorithms
+--
+
+
 Pattern Searching
 --
 
