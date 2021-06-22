@@ -44,3 +44,5 @@ Pattern Searching
 Mathematical Algorithms
 -- 
 
+Backtracking
+-- 
