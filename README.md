@@ -50,3 +50,4 @@ Backtracking
 Shortest Paths Algorithms
 --
 
+* Dijkstra’s Shortest Path 
