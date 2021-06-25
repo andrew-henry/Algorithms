@@ -40,6 +40,7 @@ Pattern Searching
 --
 
 * Naive Pattern Searching
+* KMP Algorithm 
 
 Mathematical Algorithms
 -- 
