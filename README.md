@@ -34,7 +34,7 @@ Graph Algorithms
 
 Greedy Algorithms
 --
-
+* Kruskal’s Minimum Spanning Tree 
 
 Pattern Searching
 --
