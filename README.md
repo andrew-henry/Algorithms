@@ -42,6 +42,7 @@ Pattern Searching
 * Naive Pattern Searching
 * KMP Algorithm 
 * Rabin-Karp Algorithm
+* Aho-Corasick Algorithm
 
 Mathematical Algorithms
 -- 
