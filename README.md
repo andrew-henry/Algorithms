@@ -19,7 +19,7 @@ Data Structures
     * Pop - which removes the most recently added element that was not yet removed.
 
 
-* Queue
+* Queue - In computer science, a queue is a collection of entities that are maintained in a sequence and can be modified by the addition of entities at one end of the sequence and the removal of entities from the other end of the sequence
 * Deque
 * Singly Linkd List
 * Doubly Linked List
