@@ -20,7 +20,7 @@ Data Structures
 
 
 * Queue - In computer science, a queue is a collection of entities that are maintained in a sequence and can be modified by the addition of entities at one end of the sequence and the removal of entities from the other end of the sequence
-* Deque
+* Deque - In computer science, a double-ended queue (abbreviated to deque) is an abstract data type that generalizes a queue, for which elements can be added to or removed from either the front (head) or back (tail). It is also often called a head-tail linked list.
 * Singly Linkd List
 * Doubly Linked List
 
