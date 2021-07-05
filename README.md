@@ -35,6 +35,7 @@ Sorting Algorithms
 
 Graph Algorithms 
 --
+Graph algorithms solve problems related to graph theory
 
 Greedy Algorithms
 --
