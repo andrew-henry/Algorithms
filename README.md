@@ -26,8 +26,8 @@ Data Structures
 
 Sorting Algorithms
 --
-* Bubble Sort
-* Quick Sort
+* Bubble Sort - sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order
+* Quick Sort - is an in-place sorting algorithm. Developed by British computer scientist Tony Hoare. When implemented well, it can be somewhat faster than merge sort and about two or three times faster than heapsort. Quicksort is a divide-and-conquer algorithm.
 * Merge Sort
 * Selection Sort
 * Shell Sort
