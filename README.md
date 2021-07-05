@@ -28,9 +28,9 @@ Sorting Algorithms
 --
 * Bubble Sort - sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order
 * Quick Sort - is an in-place sorting algorithm. Developed by British computer scientist Tony Hoare. When implemented well, it can be somewhat faster than merge sort and about two or three times faster than heapsort. Quicksort is a divide-and-conquer algorithm.
-* Merge Sort
-* Selection Sort
-* Shell Sort
+* Merge Sort - In computer science, merge sort is an efficient, general-purpose, and comparison-based sorting algorithm.
+* Selection Sort - In computer science, selection sort is an in-place comparison sorting algorithm. It has an O(n2) time complexity, which makes it inefficient on large lists, and generally performs worse than the similar insertion sort. Selection sort is noted for its simplicity and has performance advantages over more complicated algorithms in certain situations, particularly where auxiliary memory is limited.
+* Shell Sort - is an in-place comparison sort. It can be seen as either a generalization of sorting by exchange (bubble sort) or sorting by insertion (insertion sort).
 * Insertion Sort
 
 Graph Algorithms 
