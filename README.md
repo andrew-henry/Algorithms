@@ -31,7 +31,7 @@ Sorting Algorithms
 * Merge Sort - In computer science, merge sort is an efficient, general-purpose, and comparison-based sorting algorithm.
 * Selection Sort - In computer science, selection sort is an in-place comparison sorting algorithm. It has an O(n2) time complexity, which makes it inefficient on large lists, and generally performs worse than the similar insertion sort. Selection sort is noted for its simplicity and has performance advantages over more complicated algorithms in certain situations, particularly where auxiliary memory is limited.
 * Shell Sort - is an in-place comparison sort. It can be seen as either a generalization of sorting by exchange (bubble sort) or sorting by insertion (insertion sort).
-* Insertion Sort
+* Insertion Sort - is a simple sorting algorithm that builds the final sorted array (or list) one item at a time. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort.
 
 Graph Algorithms 
 --
