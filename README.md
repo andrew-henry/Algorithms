@@ -62,4 +62,4 @@ Backtracking is a general algorithm for finding solutions to some computational 
 Shortest Paths Algorithms
 --
 
-* Dijkstra’s Shortest Path 
+* Dijkstra’s Shortest Path - Dijkstra's algorithm solves the single-source shortest path problem with non-negative edge weight.
