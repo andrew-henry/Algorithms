@@ -44,7 +44,7 @@ Greedy Algorithms
 --
 * A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage. In many problems, a greedy strategy does not produce an optimal solution, but, nonetheless, a greedy heuristic can yield locally optimal solutions that approximate a globally optimal solution in a reasonable amount of time.
 
-* Kruskal’s Minimum Spanning Tree 
+* Kruskal’s Minimum Spanning Tree - Kruskal's algorithm finds a minimum spanning forest of an undirected edge-weighted graph. If the graph is connected, it finds a minimum spanning tree.
 
 Pattern Searching
 --
