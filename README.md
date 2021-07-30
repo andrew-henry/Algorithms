@@ -57,7 +57,8 @@ Pattern Searching
 * Rabin-Karp Algorithm - the Rabin–Karp algorithm or Karp–Rabin algorithm is a string-searching algorithm created by Richard M. Karp and Michael O. Rabin that uses hashing to find an exact match of a pattern string in a text. It uses a rolling hash to quickly filter out positions of the text that cannot match the pattern, and then checks for a match at the remaining positions. Generalizations of the same idea can be used to find more than one match of a single pattern, or to find matches for more than one pattern.
 
 * Aho-Corasick Algorithm
-* Z Algorithm
+
+* Z Algorithm - is a linear time string matching algorithm which runs in O(n) complexity. It is used to find all occurrence of a pattern P in a string S, which is common string searching problem
 
 Mathematical Algorithms
 -- 
